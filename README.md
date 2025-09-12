@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d87079ef-8f7a-4ef5-b7e5-cf3044de9bf5)
+![image]()
 
 # ✨ Hola, soy Ana Belén Moreno ✨  
 

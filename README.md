@@ -59,6 +59,10 @@ Bienvenid@ a mi perfil 👋!
 
 ---
 
-## 🌍 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/ana-bel%C3%A9n-moreno-420239198/)  
-- 📧 anabelenmoreno2@hotmail.com  
+### 🌐 Conecta conmigo
+[![Email](https://img.shields.io/badge/Email-anabelenmoreno2@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabelenmoreno2@hotmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-bel%C3%A9n-moreno-420239198/)
+
+[![Portfolio *Trabajando en ello](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue?style=for-the-badge)](https://tuweb.com)

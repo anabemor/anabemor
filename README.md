@@ -1,6 +1,6 @@
 ![image](https://github.com/anabemor/anabemor/blob/main/Banner%20Ana%20Bel%C3%A9n%20Moreno.png)
 
-# 👋 ¡Hola! Soy Ana
+#  ¡Hola! Soy Ana
 
 Soy **desarrolladora web** apasionada por crear **experiencias interactivas, atractivas y funcionales**.  
 

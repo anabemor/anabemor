@@ -2,13 +2,13 @@
   <img src="Abn.png" alt="Banner Ana Belén" width="100%">
 </div>
 
-# 👋 ¡Hola! Soy Ana
+#  ¡Hola! Soy Ana
 
 Soy **desarrolladora web** apasionada por crear **experiencias interactivas, atractivas y funcionales**.  
 
-He trabajado con **Angular, Symfony y PostgreSQL**, desarrollando **paneles de administración** e interfaces **escalables y fáciles de usar**.  
+He trabajado con **Angular, Symfony y PostgreSQL**, desarrollando paneles de administración e interfaces escalables y fáciles de usar.  
 
-Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando siempre interfaces **claras y eficientes**.  
+Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando siempre interfaces claras y eficientes.  
 
 ✨ Siempre aprendiendo, adaptándome a nuevas tecnologías y explorando cómo la **IA** puede potenciar mis proyectos.  
 
@@ -65,5 +65,5 @@ Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando 
 
 ---
 <div align="center">
-  ✨ Gracias por visitar mi perfil. ¡Echa un vistazo a mis repositorios y proyectos!
+ ✨ Gracias por visitar mi perfil. ¡Echa un vistazo a mis repositorios y proyectos!
 </div>

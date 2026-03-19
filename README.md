@@ -1,6 +1,8 @@
-![image](https://github.com/anabemor/anabemor/blob/main/Banner%20Ana%20Bel%C3%A9n%20Moreno.png)
+<div align="center">
+  <img src="Banner Ana Belén Moreno.png" alt="Banner Ana Belén" width="100%">
+</div>
 
-#  ¡Hola! Soy Ana
+# 👋 ¡Hola! Soy Ana
 
 Soy **desarrolladora web** apasionada por crear **experiencias interactivas, atractivas y funcionales**.  
 
@@ -9,7 +11,6 @@ He trabajado con **Angular, Symfony y PostgreSQL**, desarrollando **paneles de a
 Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando siempre interfaces **claras y eficientes**.  
 
 ✨ Siempre aprendiendo, adaptándome a nuevas tecnologías y explorando cómo la **IA** puede potenciar mis proyectos.  
-
 
 ---
 
@@ -22,7 +23,6 @@ Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### 🏗️ Frameworks y Plataformas  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -31,35 +31,39 @@ Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🔧 Herramientas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-### 🔽 Sistemas operativos  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ---
 
 ## 📊 Estadísticas  
 
 <p align="center">
-<a href="https://github.com/anabemor">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anabemor&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anabemor&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabemor&theme=algolia" alt="Ana's Streak Stats"  />
-</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anabemor&theme=algolia" alt="Ana's Streak Stats" />
 </p>
 
 ---
 
-### 🌐 Conecta conmigo
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-anabelenmoreno2@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabelenmoreno2@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-bel%C3%A9n-moreno-420239198/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue?style=for-the-badge)](https://anabemor-portfolio.vercel.app/)
+<div align="center">
 
-✨ Gracias por visitar mi perfil. ¡Echa un vistazo a mis repositorios y proyectos!
+<a href="mailto:anabelenmoreno2@hotmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ana-bel%C3%A9n-moreno-420239198/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://anabemor-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+---
+<div align="center">
+  ✨ Gracias por visitar mi perfil. ¡Echa un vistazo a mis repositorios y proyectos!
+</div>

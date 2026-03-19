@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Anabanner.png" alt="Banner Ana Belén" width="100%">
+  <img src="Abn.png" alt="Banner Ana Belén" width="100%">
 </div>
 
 # 👋 ¡Hola! Soy Ana

@@ -1,19 +1,15 @@
 ![image](https://github.com/anabemor/anabemor/blob/main/Banner%20Ana%20Bel%C3%A9n%20Moreno.png)
 
-# ✨ Gracias por visitar mi GitHub ✨  
+# 👋 ¡Hola! Soy Ana
 
-Bienvenid@ a mi perfil 👋!
+Soy **desarrolladora web** apasionada por crear **experiencias interactivas, atractivas y funcionales**.  
 
-🚀 Periodista convertida en **Desarrolladora Web Full Stack**  
-💡 Me encanta transformar ideas en código y aprender cosas nuevas cada día.  
-🎪 Actualmente creando proyectos con **Angular, JavaScript, Java**.  
+He trabajado con **Angular, Symfony y PostgreSQL**, desarrollando **paneles de administración** e interfaces **escalables y fáciles de usar**.  
 
----
+Me interesa especialmente la **UX, la usabilidad y la accesibilidad**, buscando siempre interfaces **claras y eficientes**.  
 
-## 🌈 Un poco sobre mí
-- 🌱 Aprendiendo y experimentando con nuevas tecnologías.  
-- 🧩 Disfruto resolviendo problemas (¡y también rompiendo cosas para aprender!).  
-- 📸 Amante de la creatividad, la comunicación y el diseño.  
+✨ Siempre aprendiendo, adaptándome a nuevas tecnologías y explorando cómo la **IA** puede potenciar mis proyectos.  
+
 
 ---
 
@@ -60,9 +56,10 @@ Bienvenid@ a mi perfil 👋!
 ---
 
 ### 🌐 Conecta conmigo
+## 📫 Contacto
+
 [![Email](https://img.shields.io/badge/Email-anabelenmoreno2@hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anabelenmoreno2@hotmail.com)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-bel%C3%A9n-moreno-420239198/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue?style=for-the-badge)](https://anabemor-portfolio.vercel.app/)
 
-[![Portfolio *Trabajando en ello](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-blue?style=for-the-badge)](https://.com)](https://anabemor-portfolio.vercel.app/)
+✨ Gracias por visitar mi perfil. ¡Echa un vistazo a mis repositorios y proyectos!
